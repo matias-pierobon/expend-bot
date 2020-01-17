@@ -1,0 +1,10 @@
+{
+  "name": "expend-bot",
+  "version": "1.0.0",
+  "description": "A bot for telegram to keep track of a group expenses",
+  "main": "index.js",
+  "repository": "git@github.com:matias-pierobon/expend-bot.git",
+  "author": "Matias Pierobon <matias.pierobonm@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
